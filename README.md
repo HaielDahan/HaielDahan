@@ -2,15 +2,26 @@
 
 <!--
 **HaielDahan/HaielDahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Technologies
 
-Here are some ideas to get you started:
+### Programming Languages
+- Python
+- C
+- C++
+- C#
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### UI Frameworks
+- Django
+- React
+
+### Development Environments
+- PyCharm
+- Google Colab
+- Visual Studio Code
+- Eclipse
+
+### Version Control
+- Git
+
+
