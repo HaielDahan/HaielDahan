@@ -1,19 +1,16 @@
-#  <p align ="center" height="40px" width="40px"> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"> </p>
 
-##  <p align = "center"> My name is Haiel Dahan, I’m software engineering student at SCE college of engineering.
+##  <p align = "center"> My name is Haiel Dahan, I’m software engineer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"> </p>
 
-</p>
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Alt Text" width="600" />
+</div>
 
-<!--**HaielDahan/HaielDahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaielDahan&layout=donut)](https://github.com/HaielDahan/github-readme-stats)
 
 ## About Me
 
-I am a final year student pursuing a degree in software engineering. I have a strong interest in [insert your area of interest], and have completed several projects related to this field. In my free time, I enjoy [insert any hobbies or interests].
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Alt Text" />
-</div>
+I have successfully completed my studies in Software Engineering at SCE College. Currently, I am actively engaged in personal projects to enhance and refine my skills. I am eagerly awaiting new opportunities to apply my knowledge and contribute to the field.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaielDahan&layout=donut)
 ## Skills & Technologies
 | | |
 |---|---|
