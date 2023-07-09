@@ -8,7 +8,7 @@
 
 ## About Me
 
-I have successfully completed my studies in Software Engineering at SCE College. Currently, I am actively engaged in personal projects to enhance and refine my skills. I am eagerly awaiting new opportunities to apply my knowledge and contribute to the field.
+I have successfully completed my studies in Software Engineering at SCE College. Currently, I am actively engaged in personal projects to enhance and refine my skills. I am eagerly awaiting new opportunities to apply my knowledge and contribute to the field. ✨🎓💻🌟
 
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaielDahan&layout=donut)-->
 ## Skills & Technologies
